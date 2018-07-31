@@ -1,3 +1,4 @@
+//Program for check a number is prime or not.
 import java.util.Scanner;
 class Prime1
 {
